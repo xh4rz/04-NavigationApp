@@ -9,6 +9,7 @@ module.exports = {
 		'@typescript-eslint/no-unused-vars': ['warn'],
 		'react/react-in-jsx-scope': 'off',
 		'react-hooks/exhaustive-deps': 'off',
-		curly: 'off'
+		curly: 'off',
+		'react/no-unstable-nested-components': 'off'
 	}
 };
